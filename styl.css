@@ -1,4 +1,4 @@
-body{background-color: rgb(96, 153, 153);
+body{background-color: rgb(235, 255, 255);
      font-family: Arial, Helvetica, sans-serif;
 	color: rgb(88, 9, 99);}
 h1{text-align: center;}
@@ -12,10 +12,12 @@ p{width: 600px;
 height: 100px;
 margin-left:  150px; }   
 
-img{width: 300px;
-float: right;
+img{width: 20px;
+float:right;
+margin-right: 10px;}
+img{width: 160px;
+float:right;
 margin-right: 100px;}
-
 section{width: 90%;
         height: 300px; 
         margin:0 auto ;
