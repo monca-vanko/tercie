@@ -12,12 +12,12 @@ p{width: 600px;
 height: 100px;
 margin-left:  150px; }   
 
-img{width: 20px;
-float:right;
-margin-right: 10px;}
-img{width: 160px;
+img{width: 200px;
 float:right;
 margin-right: 100px;}
+img{width: 370px;
+float:right;
+margin-right: 260px;}
 section{width: 90%;
         height: 300px; 
         margin:0 auto ;
